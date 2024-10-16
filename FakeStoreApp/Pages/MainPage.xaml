@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FakeStoreApp.Pages.MainPage"
+             Padding="10">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30,0" Spacing="25">
+
+            <Label Text="Bienvenido a StoreApp" 
+                   FontSize="24" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="CenterAndExpand" />
+
+            <Button x:Name="BtnIrAConsultarProducto" 
+                    Text="Consultar Producto" 
+                    Clicked="BtnIrAConsultarProducto_Clicked" />
+
+            <Button x:Name="BtnIrACrearProducto" 
+                    Text="Crear Producto" 
+                    Clicked="BtnIrACrearProducto_Clicked" />
+
+            <Button x:Name="BtnIrAListar" 
+                    Text="Listar Productos" 
+                    Clicked="BtnIrAListarProductos_Clicked" />
+
+            <Button x:Name="BtnIrAActualizarProducto" 
+                    Text="Actualizar Producto" 
+                    Clicked="BtnIrAActualizarProducto_Clicked" />
+
+            <Button x:Name="BtnIrAEliminarProducto" 
+                    Text="Eliminar Producto" 
+                    Clicked="BtnIrAEliminarProducto_Clicked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

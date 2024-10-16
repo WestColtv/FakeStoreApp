@@ -1,0 +1,1 @@
+C:\Users\JHOEL\source\repos\FakeStoreApp\FakeStoreApp\FakeStoreApp.csproj;x64

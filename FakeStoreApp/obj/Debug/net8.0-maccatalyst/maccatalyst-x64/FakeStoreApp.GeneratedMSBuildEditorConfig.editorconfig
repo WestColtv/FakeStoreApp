@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FakeStoreApp
+build_property.ProjectDir = C:\Users\JHOEL\source\repos\FakeStoreApp\FakeStoreApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/ActualizarProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.ActualizarProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ActualizarProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ActualizarProductoPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/ConsultarProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.ConsultarProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ConsultarProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ConsultarProductoPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/CrearProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.CrearProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CrearProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CrearProductoPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/EliminarProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.EliminarProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EliminarProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EliminarProductoPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/ListarProductosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.ListarProductosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ListarProductosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ListarProductosPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/JHOEL/source/repos/FakeStoreApp/FakeStoreApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FakeStoreApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

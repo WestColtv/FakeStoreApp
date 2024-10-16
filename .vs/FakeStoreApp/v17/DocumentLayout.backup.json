@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\actualizarproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\actualizarproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\eliminarproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\eliminarproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\eliminarproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\eliminarproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\crearproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\crearproductopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\crearproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\crearproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\actualizarproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\actualizarproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|c:\\users\\jhoel\\source\\repos\\fakestoreapp\\fakestoreapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89FC2E7F-E11B-4897-BFF0-0D5C757EA1B1}|FakeStoreApp\\FakeStoreApp.csproj|solutionrelative:fakestoreapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearProductoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\CrearProductoPage.xaml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\CrearProductoPage.xaml",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\CrearProductoPage.xaml",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\CrearProductoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T07:50:27.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarProductoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\ActualizarProductoPage.xaml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\ActualizarProductoPage.xaml",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\ActualizarProductoPage.xaml",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\ActualizarProductoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T07:48:18.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarProductoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\ActualizarProductoPage.xaml.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\ActualizarProductoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\ActualizarProductoPage.xaml.cs",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\ActualizarProductoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:42:40.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EliminarProductoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\EliminarProductoPage.xaml.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\EliminarProductoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\EliminarProductoPage.xaml.cs",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\EliminarProductoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:44:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearProductoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\CrearProductoPage.xaml.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\CrearProductoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\CrearProductoPage.xaml.cs",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\CrearProductoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:43:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EliminarProductoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\EliminarProductoPage.xaml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\EliminarProductoPage.xaml",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\EliminarProductoPage.xaml",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\EliminarProductoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T07:42:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:17:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FakeStoreApp\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\JHOEL\\source\\repos\\FakeStoreApp\\FakeStoreApp\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "FakeStoreApp\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T03:01:20.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
